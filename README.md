@@ -1,4 +1,5 @@
-# BIG_DATA_ASSIGMENT-2
+# Big data Text Mining and Search using TF-IDF
+
 Project Report: Wikipedia Dataset Analysis
 1. Introduction:
 This report presents the analysis of a subset of the English Wikipedia dataset obtained from Wikimedia. The dataset comprises approximately 5 million Wikipedia articles, each identified by a unique ARTICLE_ID. Each article contains various subsections denoted by SECTION_TITLE and SECTION_TEXT fields. The goal of this project is to analyze the dataset, perform indexing and retrieval tasks, and provide insights into information retrieval from large-scale text corpora.
